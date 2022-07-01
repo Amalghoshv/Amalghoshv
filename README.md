@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amalghoshv
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
