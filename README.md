@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Amalghoshv
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- Front-end | Angular JS | React JS | Typescript
+
 
 
 
