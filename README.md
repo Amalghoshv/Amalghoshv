@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amalghoshv
 - 👀 I’m interested in web development
-- Front-end | Angular JS | React JS | Typescript
+- Front-end | Angular JS | React JS | Vue JS| Frappe UI | Typescript
 
 
 
