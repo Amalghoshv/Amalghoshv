@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amalghosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Vue Js**
+- 🌱 I’m currently Researching on **Frontend Technologies**
 
 - 📫 How to reach me **amalghosh123v@gmail.com**
 
